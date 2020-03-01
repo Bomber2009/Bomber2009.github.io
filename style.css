@@ -316,16 +316,14 @@ body{
 }
 #card1-gradient{
 	background: linear-gradient(to top, 
-		rgba(64,0,0,1), 
-		rgba(64,0,0,1), 
-		rgba(0,0,0,0)
+		rgba(64,0,0,1) 25%,
+		rgba(0,0,0,0) 50%
 		);
 }
 #card2-gradient{
 	background: linear-gradient(to top, 
-		rgba(0,0,64,1),
-		rgba(0,0,64,1),
-		rgba(0,0,0,0)
+		rgba(0,0,64,1) 25%,
+		rgba(0,0,0,0) 50%
 		);
 }
 .card-title{
